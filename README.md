@@ -1,4 +1,4 @@
-# TrabalhoAPp
+# TrabalhoApp
 
 A new Flutter project.
 
